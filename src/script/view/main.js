@@ -16,7 +16,7 @@ var main = function () {
             var description = club.description;
 
             var clubElement = document.createElement("div");
-            clubElement.searchElement("class", "club");
+            clubElement.setAttribute("class", "club");
 
             clubElement.innerHTML = '<img class="fan-art-club" src="' + fanArt + '" alt="Fan Art">\n' +
                 '<div class="club-info">\n' +
