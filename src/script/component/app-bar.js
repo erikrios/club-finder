@@ -1,6 +1,6 @@
 class AppBar extends HTMLElement {
 
-    connectedCallbacl() {
+    connectedCallback() {
         this.render();
     }
 
