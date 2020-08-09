@@ -1,0 +1,22 @@
+{
+  "name": "clubfinder",
+  "version": "1.0.0",
+  "description": "Club Finder is an Apps to Find All clubs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikrios/club-finder.git"
+  },
+  "keywords": [
+    "club-finder"
+  ],
+  "author": "Erik Rio Setiawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikrios/club-finder/issues"
+  },
+  "homepage": "https://github.com/erikrios/club-finder#readme"
+}
